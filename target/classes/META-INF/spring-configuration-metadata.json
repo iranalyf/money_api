@@ -1,0 +1,23 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.example.money.api.config.property.MoneyApiProperty",
+      "name": "money",
+      "type": "com.example.money.api.config.property.MoneyApiProperty"
+    },
+    {
+      "sourceType": "com.example.money.api.config.property.MoneyApiProperty",
+      "name": "money.seguranca",
+      "sourceMethod": "public com.example.money.api.config.property.MoneyApiProperty.Seguranca getSeguranca() ",
+      "type": "com.example.money.api.config.property.MoneyApiProperty$Seguranca"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.example.money.api.config.property.MoneyApiProperty$Seguranca",
+      "name": "money.seguranca.enable-https",
+      "type": "java.lang.Boolean"
+    }
+  ]
+}
